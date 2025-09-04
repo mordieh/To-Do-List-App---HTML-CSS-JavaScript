@@ -4,6 +4,9 @@ A simple and responsive To-Do List web application built using HTML, CSS, and Ja
 You can add, mark as completed, edit, delete tasks, and even clear all tasks.  
 The app also stores your tasks in the browser using localStorage — so your list stays even after refreshing the page!
 
+🚀 Live Demo
+👉 https://mordieh.github.io/To-Do-List-App---HTML-CSS-JavaScript/
+
 ## ✅ Features:
 - Add new tasks  
 - Edit existing tasks (double click to edit)  
